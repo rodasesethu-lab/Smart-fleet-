@@ -34,22 +34,12 @@ SmartFleet is a cloud based fleet management platform that turns scattered opera
 ## Demo Account
 
 - Email: demo@smartfleet.co.za
-- Password: SmartFleet2026!
+- Password: [PASSWORD]!
 - Company: Mzansi Logistics
 
 ## Getting Started
 
-
-
 Open http://localhost:3000
-
-## Deploy to Vercel
-
-1. Push this repo to GitHub
-2. Go to vercel.com and sign in with GitHub
-3. Click New Project and import your smartfleet repo
-4. Vercel auto detects Vite. Click Deploy
-5. Your app is live
 
 ## Climate Impact
 
