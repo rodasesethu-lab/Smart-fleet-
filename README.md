@@ -39,7 +39,7 @@ SmartFleet is a cloud based fleet management platform that turns scattered opera
 
 ## Getting Started
 
-Open http://localhost:3000
+Open https://smart-fleet-five.vercel.app/
 
 ## Climate Impact
 
